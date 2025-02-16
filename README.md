@@ -25,4 +25,14 @@
   year={2023},
   organization={Springer}
 }
+@ARTICLE{10702472,
+  author={Zhang, Yuanwang and Sun, Kaicong and Liu, Yuxiao and Xie, Fang and Guo, Qihao and Shen, Dinggang},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={A Modality-Flexible Framework for Alzheimer's Disease Diagnosis Following Clinical Routine}, 
+  year={2025},
+  volume={29},
+  number={1},
+  pages={535-546},
+  keywords={Magnetic resonance imaging;Transformers;Feature extraction;Medical diagnostic imaging;Vectors;Switches;Fuses;Alzheimer's disease;Bioinformatics;Accuracy;Multi-modal fusion;Alzheimer's disease diagnosis;transformer;imaging and non-imaging data},
+  doi={10.1109/JBHI.2024.3472011}}
 ```
